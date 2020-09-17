@@ -1,0 +1,189 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  /* background-color: #838383; */
+}
+
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height : 1.5;
+  font-weight: 900;
+}
+
+h2{
+  text-align: center;
+}
+
+#title
+{
+  background-color: #838383;
+  /* height:600px; */
+  color: #fddb3a;
+}
+
+
+.container-fluid
+{
+  padding : 3% 15%
+}
+
+/* navigation bar */
+
+.navbar{
+  padding: 0 0 4.5rem;
+  color: #fddb3a;
+}
+.navbar-dark .navbar-brand {
+    color: #fddb3a;
+}
+
+.navbar-brand{
+  font-family: 'Ubuntu' , sans-serif ;
+  font-size: 2.0rem;
+  font-weight:bold;
+
+}
+
+.nav-item{
+  padding: 0 18px;
+
+}
+
+.nav-link{
+  font-size:1.2rem;
+  font-family: 'Montserrat-light', sans-serif ;
+  color: #fddb3a;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color:#fddb3a;
+}
+
+/* Download Buttons */
+
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+
+/* title picture */
+
+.title-image{
+  width : 350px;
+  padding-left: 10%;
+  /* transform: rotate(25deg); */
+}
+
+/* features */
+#features{
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  background-color: #52575d;
+  color: #fddb3a;
+}
+
+.doctorbot-image{
+  width : 316px;
+  height : 508px;
+}
+
+.Feature-description-doctorbot
+{
+  padding-top: 25%;
+}
+
+.yoga-image{
+  width : 316px;
+  height : 508px;
+}
+
+.Feature-description-yoga{
+  padding-top: 25%;
+}
+
+.absms-image{
+  width : 316px;
+  height : 508px;
+}
+
+.Feature-description-absms{
+  padding-top: 25%;
+}
+
+.mediscan-image{
+  width : 316px;
+  height : 508px;
+}
+
+.Feature-description-mediscan{
+  padding-top: 25%;
+}
+
+
+/* aboutus */
+#AboutUS{
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  background-color: #bbd196;
+}
+.raghuimage{
+  width:160px;
+  height:160px;
+
+}
+.rahulimage{
+  width:160px;
+  height:160px;
+}
+
+#demo{
+  background-color: #838383;
+  color:#fddb3a;
+  padding:0;
+}
+
+.p-demo{
+  margin:0;
+}
+/* contactus */
+#Download{
+  background-color: #838383;
+  color:#fddb3a;
+
+}
+
+.p-download{
+  margin:0;
+}
+
+#Footer{
+  text-align: center;
+  padding: 50px 0 20px;
+  background-color:#bbd196;
+}
+
+.footer-link{
+  color: #11999E;
+}
+
+.website-rightsS
+{
+  /* color: #EAF6F6; */
+  font-size: 0.75em;
+  padding: 10px 20px;
+}
+/* #contactus{
+  text-align: center;
+  padding: 50px 0 20px;
+}
+
+/* footer */
+/* #footer{
+  color: #ff4c68;
+  font-size: 0.75em;
+  padding: 10px 20px;
+  text-align: center;
+} */
